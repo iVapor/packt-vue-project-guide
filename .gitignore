@@ -22,4 +22,3 @@ dist.zip
 *.njsproj
 *.sln
 *.sw*
-node_modules/
